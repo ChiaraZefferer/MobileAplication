@@ -1,0 +1,7 @@
+{
+    "title": "Easter Slideshow",
+    "slides": [
+            {"id": 17, "filename": "Sunset-17", "title": "Sunset"},
+            {"id": 33, "filename": "Gifts", "title": "Gift"}
+    ]
+}
